@@ -1,0 +1,1 @@
+This README is here so that the directory transfers over to git. In order for this program to work, you have to import the Student and Instructor Info Sheet here as a `.csv`.
